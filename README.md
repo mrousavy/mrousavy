@@ -4,5 +4,6 @@
   </a>
 </p>
 
-
-<img height="0" width="0" src="https://visitor-badge.glitch.me/badge?page_id=mrousavy.profile" />
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mrousavy.profile" />
+</p>
